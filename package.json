@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.31",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  }
+}
